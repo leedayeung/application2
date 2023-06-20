@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application map2</string>
+    <string name="map_url">https://apis.data.go.kr/B551182/hospInfoServicev2/getHospBasisList?ServiceKey=MDso8DyBLh2G0CNT4LZKj4dEQa8V7U0a4TiwYdUo3Jv%252Bd%252Fsr%252BPjDJZqx12iBplPJ16mTUXnCsBgYDJglAQDwpg%253D%253D</string>
+    <string name="map_app_id">key값</string>
+</resources>
